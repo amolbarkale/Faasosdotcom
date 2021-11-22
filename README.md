@@ -1,3 +1,6 @@
+### Live demo of website: https://faasosclone.netlify.app/
+
+
 # Faasos Home page
 ![Screenshot (269)](https://user-images.githubusercontent.com/28835550/122637287-65575600-d10b-11eb-9797-8ab2e8133215.png)
 # Index page
